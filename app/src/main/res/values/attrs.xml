@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomRibbon">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="ribbonText" format="string"/>
+        <attr name="ribbonTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>
